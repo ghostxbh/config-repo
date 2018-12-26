@@ -16,3 +16,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 env:
   dev
+#利用config互通数据
